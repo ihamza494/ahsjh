@@ -1,0 +1,24 @@
+.expense-form{
+    border: 1px solid rgb(63, 57, 57);
+    background-color: antiquewhite;
+    align-items: center;
+    padding: 2.5rem;
+    margin: 1rem 0;
+}
+.expense-form form{    
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+    padding-left: 500px;
+}
+
+.expense-form button{
+    margin-top: 10px;
+    border: transparent;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: #efaf63;
+
+}
